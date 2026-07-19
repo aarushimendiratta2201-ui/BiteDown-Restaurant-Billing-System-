@@ -1,8 +1,8 @@
-# Restaurant Billing System
+**Restaurant Billing System**
 
 A Python CLI application for restaurant order management.
 
-## Features
+**Features**
 - User registration and login with persistent storage
 - Full menu with 50 items across 7 categories
 - Birthday discount system (10% off in birth month)
@@ -10,5 +10,5 @@ A Python CLI application for restaurant order management.
 - Order history per user
 - Bill generation
 
-## Tech Stack
+**Tech Stack**
 Python · File I/O · pickle · datetime
