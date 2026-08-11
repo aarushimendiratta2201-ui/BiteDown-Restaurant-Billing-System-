@@ -11,4 +11,4 @@ A Python CLI application for restaurant order management.
 - Bill generation
 
 **Tech Stack**
-Python · File I/O · pickle · datetime
+Python · File I/O · pickle · datetime module, kaggle dataset
